@@ -8,9 +8,7 @@ EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --quiet-build=y"
 
 ## If the system setup as KDE Plasma desktop, not META, some problem might arise such as
 
-1. Sound not working
-
-Solved by 
+*Sound not working can be solved by* 
 
 ''''
 emerge kde-apps/meta-multimedia
